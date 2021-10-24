@@ -26,6 +26,3 @@
 <a href="https://instagram.com/_milantarami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_milantarami" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milantarami&show_icons=true&locale=en" alt="milantarami" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milantarami&" alt="milantarami" /></p>
