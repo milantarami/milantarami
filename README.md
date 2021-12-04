@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/_milantarami" target="blank"><img src="https://img.shields.io/twitter/follow/_milantarami?logo=twitter&style=for-the-badge" alt="_milantarami" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [https://milantarami.com.np/](https://milantarami.com.np/)
-
 - 💬 Ask me about **Laravel, React, Tailwind**
 
 - 📫 How to reach me **mailtomilantarami@gmail.com**
