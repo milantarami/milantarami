@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan Tarami</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/_milantarami" target="blank"><img src="https://img.shields.io/twitter/follow/_milantarami?logo=twitter&style=for-the-badge" alt="_milantarami" /></a> </p>
-
 - 💬 Ask me about **Laravel, React, Tailwind**
 
 - 📫 How to reach me **mailtomilantarami@gmail.com**
