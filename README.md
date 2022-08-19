@@ -2,5 +2,5 @@
 
 - 📫 How to reach me **mailtomilantarami@gmail.com**
 
-- 📄 Know about my experiences [https://milantarami.com.np/](https://milantarami.com.np/)
+- 📄 Know about my experiences [https://www.milantarami.com.np/](https://milantarami.com.np/)
 
